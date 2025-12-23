@@ -1,0 +1,7 @@
+{
+  "description": "Smart Subscription Manager with AI Receipt Verification.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "SubShare AI"
+}
